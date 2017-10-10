@@ -1,0 +1,7 @@
+io/confluent/examples/connectandstreams/avro/Location.class
+io/confluent/examples/connectandstreams/avro/Location$Builder.class
+CassandraProvider.class
+com/knoldus/MyAvroSerde.class
+com/knoldus/MyGenericAvroDeserializer.class
+io/confluent/examples/connectandstreams/avro/Location$1.class
+com/knoldus/MyGenericAvroSerializer.class
