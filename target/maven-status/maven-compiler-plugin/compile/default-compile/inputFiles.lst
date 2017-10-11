@@ -1,6 +1,10 @@
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/io/confluent/examples/connectandstreams/avro/Location.java
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/com/knoldus/MyAvroSerde.java
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/CassandraProvider.java
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/com/knoldus/KafkaStreamApplication.java
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/demo/Location.java
-/home/knoldus/IdeaProjects/KafkaTest/src/main/java/KafkaJavaProducer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/SpecificAvroSerializer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/demo/Location.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/SpecificAvroSerde.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/CassandraProvider.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/SpecificAvroDeserializer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/GenericAvroSerde.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/GenericAvroDeserializer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/KafkaJavaProducer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/GenericAvroSerializer.java
+/home/himani/Kakfa-Stream-Demo/src/main/java/com/knoldus/KafkaStreamApplication.java

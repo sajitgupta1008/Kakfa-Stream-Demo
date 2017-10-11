@@ -1,7 +1,11 @@
-io/confluent/examples/connectandstreams/avro/Location.class
-io/confluent/examples/connectandstreams/avro/Location$Builder.class
+com/knoldus/GenericAvroSerde.class
+com/knoldus/SpecificAvroSerde.class
+com/knoldus/SpecificAvroDeserializer.class
+com/knoldus/GenericAvroDeserializer.class
 CassandraProvider.class
-com/knoldus/MyAvroSerde.class
-com/knoldus/MyGenericAvroDeserializer.class
-io/confluent/examples/connectandstreams/avro/Location$1.class
-com/knoldus/MyGenericAvroSerializer.class
+demo/Location$1.class
+com/knoldus/KafkaStreamApplication.class
+demo/Location$Builder.class
+com/knoldus/SpecificAvroSerializer.class
+demo/Location.class
+com/knoldus/GenericAvroSerializer.class

@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/compiler.xml
+.idea/uiDesigner.xml
+.classpath
+.project
+.settings
+target
+logs
+*.iml
+*.ipr
+*.iws
